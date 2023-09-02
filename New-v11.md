@@ -1,10 +1,10 @@
 {
-"Title": "پرسرعت‌ترین تانل تاریخ 😎",
-"Description": "● اگه از فیلترشکنت خسته شدی بیا تو کانال یه چیز خفن و پرسرعت گذاشتیم و پین کردیم واقعا عالیه، به غیر چنل ما جای دیگه نیست 😏👇🏻",
-"Link": "tg://join?invite=UcQ05DKH6rNjNmVk",
-"ColorWave": "#FFEA00",
-"Color": "#FFEA00",
-"ColorWaveTwo": "#FFFF00",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+"Link": "tg://resolve?domain=Vpn_Shield",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "991280000136551",
-"ShowTime": "3",
-"Button": "  عضویت فوری  ",
-"ButtonCancell": "  ",
-"Closure": "true",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
+"Closure": "false",
 "Show": "on"
 }
