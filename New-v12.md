@@ -1,10 +1,10 @@
 {
-"Title": "تیم فارسروید منتشر کرد 😎🔥",
-"Description": "• فیلترشکن جدید و پرسرعت Vpn Plus بر پایه V2ray توسط تیم Farsroid منتشر شد!\nفورا عضو کانالشون بشو و خودتو از شر همه چی راحت کن 😍👇🏻",
-"Link": "tg://join?invite=MIt6Cq4bEx01ZDc0",
-"ColorWave": "#6200EA",
-"Color": "#6200EA",
-"ColorWaveTwo": "#7C4DFF",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+"Link": "tg://resolve?domain=Vpn_Shield",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "018039284847736667382884",
-"ShowTime": "4",
-"Button": "  عضویت و دانلود اجباری  ",
-"ButtonCancell": "  ",
-"Closure": "true",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
+"Closure": "false",
 "Show": "on"
 }
